@@ -133,3 +133,24 @@ main {
   width: 100%;
   height: 100%;
 }
+.contact-info {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f7f7f7;
+  border-radius: 8px;
+}
+.contact-info ul {
+  list-style: none;
+  padding: 0;
+}
+.contact-info li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+.contact-info a {
+  color: #000;
+  text-decoration: none;
+}
+.contact-info a:hover {
+  text-decoration: underline;
+}
